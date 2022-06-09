@@ -17,6 +17,6 @@ function multiply(a, b) {
 }
 ```
 ### Education
-__University__: Udmurt State University
+__University__: Udmurt State University, Mathematical Foundations of Computer Science major
 ### English
 __A1__
