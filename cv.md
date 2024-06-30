@@ -1,6 +1,6 @@
 # Sergey Malykh
 ## Age
-29 years
+30 years
 ## Contact 
 * __Location__: Izhevsk, Russia
 * __E-mail__: sergei-semak123@yandex.ru
