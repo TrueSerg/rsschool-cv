@@ -1,0 +1,41 @@
+.special.paragraph{
+    color: brown;
+}
+
+.paragraph{
+    color:purple;
+}
+
+.list{
+    background-color: bisque;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.list .listItem{
+    color: black;
+}
+
+.listItem{
+    color:orange;
+}
+
+.listItem:nth-child(1){
+    color: purple;
+}
+
+.main{
+    width: 50%;
+}
+
+.image{
+    width: 100%;
+
+}
+
+.coolImage{
+    width: 50px;
+    height: 50px;
+    background: url("https://avatars.githubusercontent.com/u/11501370?s=280&v=4");
+    background-size: cover;
+}
